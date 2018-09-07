@@ -7,7 +7,7 @@ Purely for demonstration, this simple program assumes transactions to have strin
 
 The goal here is to demonstrate how POW works and how changing this static difficulty affects block time.
 
-Sample Output - 
+## Sample Output - 
 
 ```
 
